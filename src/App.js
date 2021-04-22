@@ -71,6 +71,23 @@ export default function App() {
           ))}
         </ul>
       </div>
+      {""}
+      {""}
+      {""}
+      <p>Checkout my other Projects</p>
+      <a
+        style={{
+          textDecoration: "none",
+          padding: "0.3rem",
+          border: "2px solid black",
+          borderRadius: "0.3rem",
+          color: "white",
+          backgroundColor: "Black"
+        }}
+        href="https://ritikmangtani-portfolio.netlify.app/projects.html"
+      >
+        Browse Projects
+      </a>
     </div>
   );
 }
